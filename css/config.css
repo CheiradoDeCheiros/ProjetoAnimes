@@ -163,6 +163,9 @@ nav a:hover {
 	.caixaPrincipal, .caixa {
 		width: 100%
 	}
+	footer {
+		background-size: auto;
+	}
 	.caixaFooter {
 		width: 100%;
 		flex-direction: column;
