@@ -1,3 +1,21 @@
+html {
+ 	scroll-behavior: smooth;
+}
+.sobe {
+	background: silver;
+	padding: 10px;
+	font-size: 50px;
+	border-radius: 50px;
+	display: inline;
+	position: fixed;
+	right: 0;
+	top: 500px;
+	transition: background 0.25s;
+}
+.sobe:hover {
+	cursor: pointer;
+	background: white;
+}
 body {
 	background: #0f5bb3;
 	font-family: 'Josefin Sans', sans-serif;
