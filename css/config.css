@@ -2,9 +2,9 @@ html {
  	scroll-behavior: smooth;
 }
 .sobe {
-	width: 50px;
+	width: 30px;
 	background: silver;	
-	padding: 10px 5px 10px 5px;
+	padding: 15px 10px 15px 10px;
 	border-radius: 30px;
 	display: inline;
 	position: fixed;
